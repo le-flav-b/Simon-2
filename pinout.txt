@@ -1,0 +1,11 @@
+ ________
+/        \
+|TX   RST|	TX - NC		RST - NC
+|RX    A0|	RX - NC		 A0 - NC
+|D1    D0|	D1 - C1		 D0 - MEMRESET
+|D2    D5|	D2 - C2		 D5 - BUZZER
+|D3    D6|	D3 - C3		 D6 - CLOCK
+|D4    D7|	D4 - C4		 D7 - LATCH
+|G     D8|	 G - GND	 D8 - DATA
+|5V   3V3|	5V - NC		3V3 - 3V3
+|________|
