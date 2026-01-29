@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src="https://raw.githubusercontent.com/le-flav-b/Simon²/master/logo.png" alt="Simon²" width="150">
+    <img src="https://raw.githubusercontent.com/le-flav-b/Simon-2/master/logo.png" alt="Simon²" width="150">
     <br><br>
 
     🎮 Simon² 🎮
@@ -16,7 +16,7 @@
         <a href="#project-tree"=>Project Tree</a>
 </p>
 
-![Screenshots](https://raw.githubusercontent.com/le-flav-b/Simon²/master/photos/playing.mp4)
+![Screenshots](https://raw.githubusercontent.com/le-flav-b/Simon-2/master/photos/playing.gif)
 <br>
 <br>
 
@@ -71,5 +71,7 @@ It made me understand the importance of pin management.
 
 <h4 align="center">
     Website : <a href="https://www.le-flav-b.fr">le-flav-b.fr</a> &nbsp&nbsp · &nbsp&nbsp
-    GitHub :  <a href="https://github.com/le-flav-b">@le-flav-b</a>
+    GitHub :  <a href="https://github.com/le-flav-b">@le-flav-b</a> &nbsp&nbsp · &nbsp&nbsp
+    LinkedIn :  <a href="https://linkedin.com/in/flavien-bouleau/">@Flavien Bouleau</a>
 </h4>
+
